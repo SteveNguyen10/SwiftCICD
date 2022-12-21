@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='SwiftCiCDTests.xctest' tests='7' failures='0'>
+  <testsuite name='SwiftCiCDUITests.SwiftCiCDUITests' tests='2' failures='0'>
+    <testcase classname='SwiftCiCDUITests.SwiftCiCDUITests' name='testExample' time='2.858'/>
+    <testcase classname='SwiftCiCDUITests.SwiftCiCDUITests' name='testLaunchPerformance' time='74.679'/>
+  </testsuite>
+  <testsuite name='SwiftCiCDUITests.SwiftCiCDUITestsLaunchTests' tests='4' failures='0'>
+    <testcase classname='SwiftCiCDUITests.SwiftCiCDUITestsLaunchTests' name='testLaunch' time='4.715'/>
+    <testcase classname='SwiftCiCDUITests.SwiftCiCDUITestsLaunchTests' name='testLaunch' time='4.968'/>
+    <testcase classname='SwiftCiCDUITests.SwiftCiCDUITestsLaunchTests' name='testLaunch' time='3.470'/>
+    <testcase classname='SwiftCiCDUITests.SwiftCiCDUITestsLaunchTests' name='testLaunch' time='4.996'/>
+  </testsuite>
+  <testsuite name='SwiftCiCDTests.SwiftCiCDTests' tests='1' failures='0'>
+    <testcase classname='SwiftCiCDTests.SwiftCiCDTests' name='testExample' time='0.001'/>
+  </testsuite>
+</testsuites>
